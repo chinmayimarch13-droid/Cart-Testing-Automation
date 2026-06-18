@@ -50,4 +50,4 @@ This project focuses on testing cart functionality in an e-commerce application 
 
 ## Author
 
-Chinnu
+Chinmayi Jayaram
